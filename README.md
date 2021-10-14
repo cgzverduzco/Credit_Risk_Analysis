@@ -18,7 +18,7 @@ ______________
     SMOTE Oversampling results: Our balanced accuracy test it 65%, the precision for the high_risk it 1%, the recall is 62%, and the F1 is 2%
 
 #### Code
-![alt text](resources/smote.png)
+![alt text](Resources/smote.png)
 ______________
 
 ## Undersampling 
@@ -26,7 +26,7 @@ ______________
     ClusterCentroids Undersampling results: Our balanced accuracy test it 53%, the precision for the high_risk it 1%, the recall is 48%, and the F1 is 1%
 
 #### Code
-![alt text](resources/undersampling.png)
+![alt text](Resources/undersampling.png)
 ______________
 
 ## Combination (Over and Under) Sampling
@@ -34,7 +34,7 @@ ______________
     SMOTEENN sampling results: Our balanced accuracy test it 65%, the precision for the high_risk it 1%, the recall is 71%, and the F1 is 2%
 
 #### Code
-![alt text](resources/smoteenn.png)
+![alt text](Resources/smoteenn.png)
 ______________
 
 ## Ensemble Learners
@@ -42,13 +42,13 @@ ______________
     Balanced Random Forest Classifier results: Our balanced accuracy test it 75%, the precision for the high_risk it 3%, the recall is 65%, and the F1 is 5%
 
 #### Code
-![alt text](resources/randomForest.png)
+![alt text](Resources/randomForest.png)
 ______________
 
     Easy Ensemble AdaBoost Classifier results: Our balanced accuracy test it 93%, the precision for the high_risk it 9%, the recall is 92%, and the F1 is 16%
 
 #### Code
-![alt text](resources/easyAda.png)
+![alt text](Resources/easyAda.png)
 ______________
 
 # Summary
