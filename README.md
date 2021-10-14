@@ -57,8 +57,8 @@ The best model was Easy Ada, because it has the highest accuracy test in 93%, th
 The not-good models were Naive, SMOTE, and Cluster centroids, because they have very low accuracy-test points.
 
 There are 3 variables that we can drop for the data:
-    1. pymnt_plan
-    2. hardship_flag
-    3. debt_settlement_flag
+1. pymnt_plan
+2. hardship_flag
+3. debt_settlement_flag
 
 The reason is that these variables have the same value in all data sets.
