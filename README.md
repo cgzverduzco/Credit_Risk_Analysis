@@ -12,7 +12,7 @@ LendingClub needs to predict the credit card risk for futures leads. The real-li
     Naive Random Oversampling results: Our balanced accuracy test it 68%, the precision for the high_risk it 1%, the recall is 75%, and the F1 is 2%
 
 #### Code
-![alt text](resources/naive.png)
+![alt text](Resources/naive.png)
 ______________
 
     SMOTE Oversampling results: Our balanced accuracy test it 65%, the precision for the high_risk it 1%, the recall is 62%, and the F1 is 2%
